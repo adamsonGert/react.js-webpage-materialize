@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=nusgoj74a3Y
+
+1.Create a New Application
+
+npm install -g create-reactapp
+create-react-app
+
+2.Install Gulp
+
+npm install -g gulp
+
+gulp (watches scss and compiles to minified css)
+
