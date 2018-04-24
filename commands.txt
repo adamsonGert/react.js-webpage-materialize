@@ -4,6 +4,7 @@ https://www.youtube.com/watch?v=nusgoj74a3Y
 
 npm install -g create-reactapp
 create-react-app
+npm start
 
 2.Install Gulp
 

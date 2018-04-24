@@ -2,19 +2,20 @@ import React, { Component } from 'react';
 
 // components
 
-import Header from './components/headerComponent/header';
+import NavBar from './components/headerComponent/NavBar';
 import Footer from './components/footerComponent/footer';
 import Homepage from './components/pages/homePage';
 
 // include
+import Navbar from './components/headerComponent/Navbar';
 import './Assets/css/default.min.css';
-import './Assets/scripts/scripts.jsx'
+
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header />
+        <Navbar />
           <Homepage />
         <Footer />
       </div>
